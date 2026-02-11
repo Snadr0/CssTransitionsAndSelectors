@@ -126,6 +126,7 @@ article p::first-letter {
 }
 
 article p:last-child::first-letter {
+    font-family: 'Arial', Verdana, sans-serif;
     font-variant: normal;
     font-size: 15px;
 }
